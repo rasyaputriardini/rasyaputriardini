@@ -53,7 +53,7 @@ Thanks for stopping by my profile! 🚀 Always open to connect and share ideas.
 
 Here are the evidences of my profile README creation:
 
-1. **Screenshot of my GitHub profile after adding the README**  
+1. **Screenshot of my GitHub profile**  
    ![GitHub Profile Screenshot](my_profile.png)
 
 
